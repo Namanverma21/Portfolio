@@ -10,7 +10,7 @@ export default function Header() {
     { name: "About", href: "#about" },
     { name: "Education", href: "#education" }, // newly added
     { name: "Projects", href: "#projects" },
-    { name: "Contact", href: "mailto:gvanshika528@gmail.com" },
+    { name: "Contact", href: "mailto:ramnaman3957@gmail.com" },
   ];
 
   const socialItems = [
