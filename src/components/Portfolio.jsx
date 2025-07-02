@@ -47,7 +47,7 @@ export default function ContactMe() {
           <div className="flex items-center space-x-3">
             <FiDownload className="text-teal-400 text-2xl" />
             <a
-              href="/Naman_Verma_Resume(3).pdf" // Place your resume in public folder as 'resume.pdf'
+              href="/resume.pdf" 
               download
               className="hover:text-teal-400"
             >
